@@ -1,0 +1,11 @@
+# Ignore all target and build directories anywhere in the project
+**/target/
+
+# Ignore IntelliJ system files
+.idea/
+*.iml
+**/.idea/
+/**/*.iml
+
+# Ignore Mac system files
+.DS_Store
