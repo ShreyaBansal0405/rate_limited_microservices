@@ -1,5 +1,7 @@
 # Distributed Rate-Limiting with Spring Cloud Gateway
 
+>  **Project Focus & Context:** This repository was built as a hands-on architectural exercise to learn reactive microservices, distributed rate-limiting patterns, and cross-service security filters. The primary goal was achieving functional completion, wiring up a distributed system, and learning the underlying network mechanics rather than enterprise-grade production optimization.
+
 A scalable, reactive microservices backend demonstrating user authentication, centralized API routing, and distributed rate limiting using Redis.
 
 ## The Architecture Flow
